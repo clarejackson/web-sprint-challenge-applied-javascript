@@ -46,6 +46,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
   It is a reuseable item that only has to be created once for a website or app. It is "made of several parts: HTML, CSS, or JS brought together"
 
+
 You are expected to be able to answer questions in these areas. Your responses contribute to your Sprint Challenge grade.
 
 ## Instructions
